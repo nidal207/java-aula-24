@@ -1,0 +1,4 @@
+od meu_modulo;
+fn main() {
+  meu_modulo::saudacao();
+}
